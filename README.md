@@ -1,4 +1,4 @@
 # CHROME DEVELOPMENT ANALYSIS #
-![Getting Started](./Overall.png)
-![Getting Started](./Accessibility.png)
-![Getting Started](./SEO.png)
+![Overall Results](.Overall.png/)
+![Accessibility Results](./Accessibility.png)
+![SEO Results](./SEO.png)
